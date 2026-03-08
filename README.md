@@ -5,10 +5,13 @@ A list of resources for learning about FPGAs and ASICs. Hardware can be bit pric
 
 ### Foundations and Programming Practice
 * *Digital Design and Computer Architecture* – Harris & Harris (le bible)
+  * [Video Edition on YouTube](https://www.youtube.com/playlist?list=PLtPO_rucDaUxt1bdmBpLwU7XjwsnmV8eC)
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 * [Nandland.com](https://nandland.com/) – free, excellent beginner VHDL/Verilog tutorials
 * [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) – interactive Verilog exercises (basically LeetCode for FPGA)
 * *SystemVerilog for Design* – Sutherland
 * [Doulos SystemVerilog Golden Reference Guide](https://www.doulos.com/grg-exclusive/systemverilog-golden-reference-guide-resources/)
+* [The Complete Guide to Preparing for a High-Frequency Trading FPGA Developer Interview](https://thedatabus.in/hft_interview/)
 
 ### Hardware
 * [Arty A7-100T: Artix-7 FPGA Development Board](https://digilent.com/shop/arty-a7-100t-artix-7-fpga-development-board/?srsltid=AfmBOopSCCTm36s_PC5miB9WsMjXNiy4Wcielw0k4o8ofjHMX7dEuTu_)
